@@ -7,11 +7,14 @@ After the covid lockdown got loosened , classes began to start in colleges. Duri
 
 Workshop started , instead of UNO they directly gave us ESP8266 to start with, because of these Arduino UNOs I've used before, i had some idea about how to interface with pc and all, but for the rest of the people it was a little hard to digest, Unlike the Arduino the pin numbers of ESP and the GPIO pin we've mention in the code is different for this node MCU. Whatever , this was the first time i was implementing the code on my own and trying out different things with these micro controllers.
 
-https://github.com/Anandhu-Sudha/IoT-Workshop/blob/cabf57c1939f5e4e4036b40b8d27f843135bea05/pictures/20211220144224_IMG_2617%20copy.jpg
+![image alt](https://github.com/Anandhu-Sudha/IoT-Workshop/blob/cabf57c1939f5e4e4036b40b8d27f843135bea05/pictures/20211220144224_IMG_2617%20copy.jpg)
 
-https://github.com/Anandhu-Sudha/IoT-Workshop/blob/cabf57c1939f5e4e4036b40b8d27f843135bea05/pictures/Screenshot%202025-02-01%20160534.png
-https://github.com/Anandhu-Sudha/IoT-Workshop/blob/cabf57c1939f5e4e4036b40b8d27f843135bea05/pictures/Screenshot%202025-02-01%20160544.png
+![image alt](https://github.com/Anandhu-Sudha/IoT-Workshop/blob/cabf57c1939f5e4e4036b40b8d27f843135bea05/pictures/Screenshot%202025-02-01%20160534.png)
+![image alt](https://github.com/Anandhu-Sudha/IoT-Workshop/blob/cabf57c1939f5e4e4036b40b8d27f843135bea05/pictures/Screenshot%202025-02-01%20160544.png)
 
 This was some kind of project we've made... (when i say we i mean me). Using Node MCU to monitor the light intensity in the atmosphere , light some LEDs based on these values and upload the value obtained with the LDR sensor module in the "ThingSpeak" platform with an App created with "Blynk".
 
+https://github.com/user-attachments/assets/7f9c0f84-6e39-433a-878e-f00b7acb6ad0
+
+There's nothing much to see in the video, but it looked so cool to me back in that day
 
